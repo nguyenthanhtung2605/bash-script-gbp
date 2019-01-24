@@ -1,6 +1,8 @@
 my-best-practice-bash-script-templates
 ====================
->>> This post is copied from https://github.com/ralish/bash-script-template. I use it as a base to develop my own templates and practices. I am sorry for any confusions this may cause<<<
+>>> This post is copied from https://github.com/ralish/bash-script-template. I use it as a base to develop my own templates and practices. I am sorry for any confusions this may cause ./.
+
+----------
 Some `bash` scripting templates incorporating best practices & several useful functions.
 
 Motivation
