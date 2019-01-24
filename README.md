@@ -1,12 +1,12 @@
-bash-script-template
+my-best-practice-bash-script-templates
 ====================
-
-A `bash` scripting template incorporating best practices & several useful functions.
+>>> This post is copied from https://github.com/ralish/bash-script-template. I use it as a base to develop my own templates and practices. I am sorry for any confusions this may cause<<<
+Some `bash` scripting templates incorporating best practices & several useful functions.
 
 Motivation
 ----------
 
-I write `bash` scripts not infrequently and realised that I often copied a recent script whenever I started writing a new one. This provided me with a basic scaffold to work on and several useful helper functions I'd otherwise likely end up duplicating.
+I do not write `bash` scripts very often and realised that I often copied a recent script whenever I started writing a new one. This provided me with a basic scaffold to work on and several useful helper functions I'd otherwise likely end up duplicating.
 
 So rather than continually copying old scripts and flensing the irrelevant code, I'm publishing a more formalised template to ease the process for my own usage and anyone else who may find it helpful! Suggestions for improvements are most welcome.
 
